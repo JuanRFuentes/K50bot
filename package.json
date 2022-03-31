@@ -1,1 +1,12 @@
-Version
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": " svico.js",
+  "scripts": {
+  "start": "node svico.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.2"
+  }
+}
