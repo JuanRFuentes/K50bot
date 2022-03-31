@@ -7,6 +7,6 @@
   "start": "node svico.js"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^4.0.2"
+    "@adiwajshing/baileys": "^4.0.1"
   }
 }
