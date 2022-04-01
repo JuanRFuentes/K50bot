@@ -1,4 +1,4 @@
-inport makeWASocket, { DisconnectReason } from '@adiwajshing/baileys'
+import makeWASocket, { DisconnectReason } from '@adiwajshing/baileys'
 import { Boom } from '@hapi/boom'
 
 async function connectToWhatsApp () {
