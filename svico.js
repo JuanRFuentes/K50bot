@@ -1,5 +1,5 @@
-const makeWASocket, { DisconnectReason } from '@adiwajshing/baileys'
-const { Boom } from '@hapi/boom'
+inport makeWASocket, { DisconnectReason } from '@adiwajshing/baileys'
+import { Boom } from '@hapi/boom'
 
 async function connectToWhatsApp () {
     const sock = makeWASocket({
